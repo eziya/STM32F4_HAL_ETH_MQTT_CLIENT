@@ -12,4 +12,4 @@
 
 3. Tutorial & Videos
 - Written in Korean : undergoing
-- Test video : https://youtu.be/hZ8f9zqaPdQ
+- Test video : https://youtu.be/I7lXjgMT5Yo
