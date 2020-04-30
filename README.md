@@ -5,6 +5,7 @@
 - https://www.eclipse.org/paho/
 - https://github.com/eclipse/paho.mqtt.embedded-c
 - https://www.instructables.com/id/How-to-implement-embedded-Mqtt-Client-using-W5500-/
+- http://blog.naver.com/pcppcp454/221380882726
 
 2. Implementation
 - Added MQTTInerface.c/h files to port paho MQTT library for STM32 HAL + FREERTOS + LWIP
