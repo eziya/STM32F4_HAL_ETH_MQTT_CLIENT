@@ -16,3 +16,18 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2020-04-30 22:30:16.212
 !MESSAGE Indexed 'STM32F4_HAL_ETH_MQTT_CLIENT' (130 sources, 304 headers) in 18.2 sec: 17,510 declarations; 89,482 references; 2 unresolved inclusions; 134 syntax errors; 188 unresolved names (0.18%)
+!SESSION 2020-04-30 23:31:35.566 -----------------------------------------------
+eclipse.buildId=Version 1.3.1
+java.version=1.8.0_202
+java.vendor=AdoptOpenJdk
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-04-30 23:31:47.254
+!MESSAGE Log4j initialized with config file C:\Github\STM32F4_HAL_ETH_MQTT_CLIENT\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-04-30 23:31:56.890
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-04-30 23:31:57.717
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
