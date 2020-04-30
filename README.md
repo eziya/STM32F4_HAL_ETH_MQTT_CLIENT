@@ -11,5 +11,5 @@
 - Added Socket & Netconn API based port functions for timer and network
 
 3. Tutorial & Videos
-- Written in Korean : undergoing
+- Written in Korean : https://blog.naver.com/eziya76/221938551688
 - Test video : https://youtu.be/I7lXjgMT5Yo
