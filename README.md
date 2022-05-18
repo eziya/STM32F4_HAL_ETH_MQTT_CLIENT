@@ -1,7 +1,7 @@
 # STM32F4_HAL_ETH_MQTT_CLIENT
  STM32 + FREERTOS + LWIP + MQTT example
  
-!!! Updated for STM32CubeIDE 1.9.0
+!!! Updated for STM32CubeIDE 1.9.0<br>
 https://github.com/eziya/STM32F4_HAL_LWIP_LAB/tree/master/STM32F4_HAL_ETH_MQTT_CLIENT_NEW
   
 
