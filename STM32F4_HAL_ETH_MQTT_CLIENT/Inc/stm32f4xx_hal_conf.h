@@ -72,7 +72,6 @@
 /* #define HAL_HCD_MODULE_ENABLED   */
 /* #define HAL_DSI_MODULE_ENABLED   */
 /* #define HAL_QSPI_MODULE_ENABLED   */
-/* #define HAL_QSPI_MODULE_ENABLED   */
 /* #define HAL_CEC_MODULE_ENABLED   */
 /* #define HAL_FMPI2C_MODULE_ENABLED   */
 /* #define HAL_SPDIFRX_MODULE_ENABLED   */
