@@ -34,7 +34,7 @@ struct Network
 	void (*disconnect) (Network*);
 };
 
-void InitTimer(Timer*);
+void TimerInit(Timer*);
 char TimerIsExpired(Timer*);
 void TimerCountdownMS(Timer*, unsigned int);
 void TimerCountdown(Timer*, unsigned int);
